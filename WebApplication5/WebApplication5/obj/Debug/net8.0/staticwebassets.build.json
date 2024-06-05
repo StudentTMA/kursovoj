@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "IrmaUpW7EKtgOM16S7Zlyr9H6u86L/d09d1MwLD3IN8=",
+  "Source": "WebApplication5",
+  "BasePath": "_content/WebApplication5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication5\\wwwroot",
+      "Source": "WebApplication5",
+      "ContentRoot": "B:\\сервисы\\04062024\\WebApplication5\\WebApplication5\\wwwroot\\",
+      "BasePath": "_content/WebApplication5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
